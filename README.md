@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Falegnameria Artigianale - Sito Vetrina
+
+Questo progetto è un sito vetrina per una falegnameria artigianale, creato con Next.js, TypeScript e Tailwind CSS. Il sito è progettato per essere elegante, responsive e facilmente estendibile.
+
+## Caratteristiche
+
+- 🎨 Design elegante e artigianale con tema in legno
+- 📱 Completamente responsive su tutti i dispositivi
+- 🚀 Ottimizzato per le prestazioni e il SEO
+- 💅 Styling con Tailwind CSS
+- 🔍 Struttura del codice pulita e ben organizzata
+
+## Struttura del Progetto
+
+- **Homepage**: presentazione dell'azienda con sezioni per servizi, progetti recenti e testimonianze
+- **Chi Siamo**: informazioni sull'azienda, la sua storia, i valori e il team
+- **Servizi**: dettagli sui servizi offerti dalla falegnameria
+- **Progetti**: galleria dei progetti realizzati 
+- **Contatti**: informazioni di contatto, mappa e form per richieste
+
+## Tecnologie Utilizzate
+
+- [Next.js](https://nextjs.org/) - Framework React per rendering lato server
+- [TypeScript](https://www.typescriptlang.org/) - Tipizzazione statica per JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utility-first
+- [React](https://reactjs.org/) - Libreria JavaScript per interfacce utente
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisiti
+
+- Node.js 18.x o superiore
+- npm o yarn
+
+### Installazione
+
+1. Clona il repository
+
+```bash
+git clone <url-repository>
+cd falegnameria-artigianale
+```
+
+2. Installa le dipendenze
+
+```bash
+npm install
+# oppure
+yarn install
+```
+
+3. Avvia il server di sviluppo
 
 ```bash
 npm run dev
-# or
+# oppure
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Apri [http://localhost:3000](http://localhost:3000) nel tuo browser per vedere il risultato
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Struttura delle Cartelle
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `src/app/` - Pagine dell'applicazione
+- `src/components/` - Componenti React riutilizzabili
+- `src/components/layout/` - Componenti del layout (Header, Footer)
+- `src/components/ui/` - Componenti UI riutilizzabili
+- `src/data/` - Dati mock per servizi e progetti
+- `src/utils/` - Utilità e funzioni helper
+- `public/` - File statici (immagini, font, ecc.)
 
-## Learn More
+## Personalizzazione
 
-To learn more about Next.js, take a look at the following resources:
+### Immagini
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Tutte le immagini segnaposto possono essere sostituite con immagini reali, mantenendo gli stessi nomi di file nella cartella `public/images/`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Contenuti
 
-## Deploy on Vercel
+I contenuti possono essere modificati nei file:
+- `src/data/services.json` - Servizi offerti
+- `src/data/projects.json` - Progetti realizzati
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Questo sito può essere facilmente deployato su piattaforme come Vercel, Netlify o qualsiasi altra piattaforma che supporti Next.js.
+
+```bash
+npm run build
+# oppure
+yarn build
+```
+
+## Licenza
+
+Questo progetto è concesso in licenza con licenza MIT.

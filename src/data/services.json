@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Mobili su Misura",
+    "shortDescription": "Realizziamo mobili personalizzati per ogni ambiente della casa, adattati perfettamente ai tuoi spazi e alle tue esigenze.",
+    "description": "I nostri mobili su misura sono la soluzione perfetta per ottimizzare gli spazi e dare personalità ai tuoi ambienti. Ogni pezzo è progettato secondo le tue specifiche esigenze, tenendo conto dello stile dell'ambiente e delle funzionalità richieste. Utilizziamo solo materiali di alta qualità e tecniche di lavorazione artigianali per garantire durata e bellezza.",
+    "image": "/service-furniture.jpg",
+    "detailImage": "/service-furniture-detail.jpg",
+    "features": [
+      "Progettazione personalizzata",
+      "Scelta accurata dei materiali",
+      "Attenzione maniacale ai dettagli",
+      "Finiture di alta qualità",
+      "Consegna e montaggio professionale"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cucine Artigianali",
+    "shortDescription": "Progettiamo e realizziamo cucine su misura, combinando funzionalità, estetica e materiali di alta qualità.",
+    "description": "La cucina è il cuore della casa, e noi lo sappiamo bene. Progettiamo e realizziamo cucine su misura che uniscono funzionalità, estetica e materiali di qualità. Ogni dettaglio è studiato per rendere la tua cucina non solo bella, ma anche pratica e funzionale.",
+    "image": "/service-kitchen.jpg",
+    "detailImage": "/service-kitchen-detail.jpg",
+    "features": [
+      "Progettazione 3D personalizzata",
+      "Consulenza per la scelta dei materiali e degli elettrodomestici",
+      "Soluzioni ergonomiche e funzionali",
+      "Ampia gamma di finiture e accessori",
+      "Installazione professionale"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Armadi e Cabine",
+    "shortDescription": "Creiamo soluzioni di stoccaggio eleganti e funzionali, armadi e cabine armadio personalizzate per ogni spazio.",
+    "description": "Ottimizza lo spazio con soluzioni di stoccaggio eleganti e funzionali. I nostri armadi e cabine armadio sono progettati per adattarsi perfettamente ai tuoi spazi e rispondere alle tue esigenze di organizzazione.",
+    "image": "/service-wardrobe.jpg",
+    "detailImage": "/service-wardrobe-detail.jpg",
+    "features": [
+      "Studio dello spazio disponibile",
+      "Organizzazione interna personalizzata",
+      "Sistemi di illuminazione integrati",
+      "Accessori e complementi funzionali",
+      "Massimizzazione dello spazio di stoccaggio"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Restauro Mobili",
+    "shortDescription": "Ridoniamo vita e splendore ai tuoi mobili antichi o danneggiati con tecniche di restauro conservative.",
+    "description": "Ridoniamo vita e splendore ai tuoi mobili antichi o danneggiati. Il nostro servizio di restauro conservativo rispetta la storia e le caratteristiche originali del mobile, intervenendo con tecniche tradizionali e materiali di alta qualità.",
+    "image": "/service-restoration.jpg",
+    "detailImage": "/service-restoration-detail.jpg",
+    "features": [
+      "Riparazione di danni strutturali",
+      "Ripristino delle finiture originali",
+      "Sostituzione di parti danneggiate",
+      "Trattamenti antitarlo",
+      "Consulenza per la manutenzione"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Porte e Infissi",
+    "shortDescription": "Produciamo porte interne, portoncini d'ingresso e infissi su misura, combinando estetica e funzionalità.",
+    "description": "Produciamo porte interne, portoncini d'ingresso e infissi su misura, combinando estetica, funzionalità e isolamento termoacustico. Ogni elemento è progettato per integrarsi perfettamente con lo stile della tua casa e garantire sicurezza e comfort.",
+    "image": "/service-doors.jpg",
+    "detailImage": "/service-doors-detail.jpg",
+    "features": [
+      "Porte interne personalizzate",
+      "Portoncini d'ingresso sicuri",
+      "Infissi ad alte prestazioni",
+      "Materiali selezionati",
+      "Installazione professionale"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Consulenza Design",
+    "shortDescription": "Offriamo un servizio di consulenza per aiutarti a progettare gli spazi e scegliere le soluzioni d'arredo più adatte.",
+    "description": "Offriamo un servizio di consulenza per aiutarti a progettare gli spazi e scegliere le soluzioni d'arredo più adatte al tuo ambiente e stile di vita. I nostri designer ti guideranno nella scelta dei materiali, delle finiture e delle soluzioni funzionali per ottimizzare gli spazi e creare ambienti personali e accoglienti.",
+    "image": "/service-design.jpg",
+    "detailImage": "/service-design-detail.jpg",
+    "features": [
+      "Progettazione degli spazi",
+      "Renderizzazione 3D",
+      "Scelta materiali e finiture",
+      "Consulenza cromatica",
+      "Supporto durante tutto il processo realizzativo"
+    ]
+  }
+]
