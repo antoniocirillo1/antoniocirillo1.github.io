@@ -1,12 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  // Configura il percorso base per GitHub Pages
-  // Sostituisci 'nome-repository' con il nome del tuo repository GitHub
-  basePath: process.env.NODE_ENV === 'production' ? '/nome-repository' : '',
+  // Nessuna necessità di configurare output come 'export' su Netlify
   images: {
-    unoptimized: true, // Necessario per l'esportazione statica
+    domains: ['images.unsplash.com'], // Aggiungi qui eventuali domini esterni delle immagini
   },
+  // Impostazioni opzionali per l'ottimizzazione su Netlify
+  swcMinify: true,
+  reactStrictMode: true,
 };
 
 module.exports = nextConfig;

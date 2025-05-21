@@ -1,0 +1,10 @@
+{
+  "build": {
+    "base": "",
+    "publish": ".next",
+    "command": "npm run build"
+  },
+  "dev": {
+    "framework": "nextjs"
+  }
+}
