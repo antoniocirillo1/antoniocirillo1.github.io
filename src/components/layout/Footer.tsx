@@ -13,10 +13,10 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-semibold mb-4">Contattaci</h3>
             <address className="not-italic">
-              <p className="mb-2">Via dei Falegnami, 123</p>
-              <p className="mb-2">00123 Roma (RM)</p>
-              <p className="mb-2">Tel: <a href="tel:+3901234567" className="hover:text-gray-200 transition">+39 0123 4567</a></p>
-              <p className="mb-2">Email: <a href="mailto:info@falegnameriaartigianale.it" className="hover:text-gray-200 transition">info@falegnameriaartigianale.it</a></p>
+              <p className="mb-2">Via Circonvallazione, 193</p>
+              <p className="mb-2">80059 Torre del Greco (NA)</p>
+              <p className="mb-2">Tel: <a href="tel:+390813625662" className="hover:text-gray-200 transition">0813625662</a></p>
+              <p className="mb-2">Email: <a href="mailto:info@panariello.com" className="hover:text-gray-200 transition">info@panariello.com</a></p>
             </address>
           </div>
 
@@ -56,9 +56,8 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-semibold mb-4">Orari di Apertura</h3>
             <ul className="space-y-2">
-              <li>Lunedì - Venerdì: 8:30 - 18:00</li>
-              <li>Sabato: 9:00 - 13:00</li>
-              <li>Domenica: Chiuso</li>
+              <li>Lunedì - Venerdì: 9:30 / 12:30 - 16:30 / 19:30</li>
+              <li>Sabato: su appuntamento</li>
             </ul>
             
             <div className="mt-6">
